@@ -1,0 +1,23 @@
+﻿<h3>DNN Clones Module Manager - DevPCI Clonator</h3>
+<p class="Contributor">
+	DevPCI.com <br />
+	<a href="mailto:contact@DevPCI.com">contact@DevPCI.com</a><br />
+	<a href=http://www.DevPCI.com>http://www.DevPCI.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DNN Clones Module Manager - DevPCI Clonator</h3>
+	<p class="Owner">
+		<b>0.0.9</b><br /><br />
+	</p>
+	<p>First beta release.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>
+	
+</div>
